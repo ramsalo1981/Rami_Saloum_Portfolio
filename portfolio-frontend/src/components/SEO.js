@@ -27,7 +27,7 @@ const SEO = ({ title, description }) => {
     twitterUsername,
   } = site.siteMetadata
   return (
-    <Helmet htmlAttributes={{ lang: "sv" }} title={`${title} | ${siteTitle}`}>
+    <Helmet title={`${title} | ${siteTitle}`}>
       <meta name="description" content={description || siteDesc} />
       <meta name="image" content={image} />
       {/* twitter cards */}
