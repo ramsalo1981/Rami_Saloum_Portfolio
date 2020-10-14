@@ -4,22 +4,25 @@ export default [
   {
     id: 1,
     icon: <FaCode className="service-icon" />,
-    title: ".net",
-    text: `C# is a simple, modern, object-oriented, and type-safe programming language.
-    asp .net core, asp .net webform, MVC`,
+    title: "Backend",
+    text: `Designa och implementera skalbara, mycket tillgängliga mjukvarutjänster i .NET
+    Utforma, utveckla och distribuera kontinuerligt backend-tjänster kontinuerligt med fokus på hög tillgänglighet, låg latens och skalbarhet Anpassningsförmåga.`,
   },
   {
     id: 2,
     icon: <FaSketch className="service-icon" />,
-    title: " html-css-js",
-    text: `HTML is for adding meaning to raw content by marking it up.
-    CSS is for formatting that marked up content.
-    JavaScript is for making that content and formatting interactive.`,
+    title: " Frontend",
+    text: `Som frontend-utvecklare bringar jag liv i Designer-konceptet genom en blandning av HTML, CSS och JavaScript.
+     Optimera webbapplikationer för snabbhet och bygga ett bibliotek med återanvändbar kod..`,
   },
   {
     id: 3,
     icon: <FaAndroid className="service-icon" />,
-    title: "reactjs-gatsby-strapi",
-    text: `Gatsby is a blazing-fast website framework for React. Strapi is an *open source Headless CMS Front-End Developers Love*.`,
+    title: "Databasadministratör",
+    text: `(SQL, MongoDb)
+    Installera och uppgradera databasservern och / eller applikationsverktygen.
+    Planerar och fördelar databassystemets fysiska krav, såsom minne, diskutrymme, nätverkskrav etc.
+    Ändra databasstrukturen med hjälp av information från applikationsutvecklare.
+    Skapa användarprofiler och säkerställa systemsäkerhet genom noggrann fördelning av användarbehörigheter.`,
   },
 ]

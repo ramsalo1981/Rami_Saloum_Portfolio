@@ -18,16 +18,16 @@ const data = [
     icon: <FaLinkedin className="social-icon"></FaLinkedin>,
     url: "https://www.linkedin.com/in/rami-saloum-48099710b",
   },
-  {
+  /* {
     id: 3,
     icon: <FaDribbbleSquare className="social-icon"></FaDribbbleSquare>,
     url: "https://www.m2msolutions.se",
-  },
-  {
+  }, */
+  /* {
     id: 4,
     icon: <FaBehanceSquare className="social-icon"></FaBehanceSquare>,
     url: "https://sigmatechnology.se",
-  },
+  }, */
   {
     id: 5,
     icon: <FaTwitterSquare className="social-icon"></FaTwitterSquare>,
